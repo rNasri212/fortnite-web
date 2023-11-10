@@ -2,9 +2,12 @@ body {
     background-color: gray;
     background-color: rgb(253, 253, 253);
     margin: 0%;
+    display: block;
+    
+   
   }
 img {
-    border-radius: 100000000000000px;
+    border-radius: 10000000000000px;
      
 }
 
@@ -22,7 +25,7 @@ table {
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
-    padding: 8px;
+    padding: 10px;
   }
   
   tr:nth-child(even) {
@@ -31,7 +34,7 @@ table {
   ul {
     list-style-type: none;
     margin: 10px;
-    padding: 0px;
+    padding: 10px;
     overflow: hidden;
     background-color: #333333;
   }
@@ -52,3 +55,4 @@ table {
     margin-left: 10px;
     border-width: 10px;
   }
+  
